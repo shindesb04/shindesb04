@@ -12,7 +12,7 @@ Bringing 5 years of experience as a Software Development Engineer, adept at craf
 I've had the privilege of gaining academic and professional exposure to diverse technology stacks. In my professional journey, I've collaborated with teams leveraging JavaScript, ServiceNow, Python, Docker, SQL, and MongoDB. As a Master's student at California State University, Los Angeles, I've gained insights from industry veterans and distinguished professors. I've also executed projects utilizing Python, Machine Learning, SQL, NoSQL, and Apache Kafka. Throughout my experience, my unwavering intellectual curiosity and user-centric approach have remained constants, enabling me to navigate through various tech stacks effectively.
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator]
   
 
 - 🌱 I’m currently learning Angular and Kubernetes  
